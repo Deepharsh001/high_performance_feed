@@ -257,3 +257,8 @@ The demo video showcases:
 * Offline revert handling
 
 ---
+# Demo Video
+
+Watch the project demo here:
+
+https://drive.google.com/file/d/1kSi9L5vuCTQaE1eZaYoPrXhf1socNPH4/view?usp=drivesdk
